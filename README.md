@@ -21,7 +21,12 @@ This enhanced Google Apps Script, created by me - [Dawid Żurawski](https://www.
 2. Go to **Extensions > Apps Script**, and paste the code from this repository.
 3. Set your **Groq API Key**:
    - In the Apps Script editor, go to **Project Settings > Script Properties**.
+   - Go to Groq to get API key:
+   - [Groq website](https://prnt.sc/wz5Htt0JR5qH)
    - Add a new property with the key: `GROQ_API_KEY` and paste your API key as the value.
+   - [Groq API key creation](https://prnt.sc/XvYHwU5UpbdE)
+)
+     
 4. Save the script and reload your spreadsheet.
 
 ---
